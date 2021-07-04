@@ -7,7 +7,7 @@ Simple self-contained in one folder.
 ## Code style
 HTML 5, CSS, JavaScript
 ## Screenshots
-![](images/dmc.jpg)
+![](images/dmc.png)
 ## Tech/framework used
 (IDE) Used for this project was 'Visual Studio Code'.
 ## How to use?
